@@ -1,2 +1,2 @@
-# aqua-peridot.github.io
+# aqua-peri.github.io
 Web Dev Portfolio site 
