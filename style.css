@@ -1,3 +1,74 @@
-.content-box{
-	border: 1px solid red;
+body{
+    font-family: 'Verdana';
+}
+body > h1{
+    text-align: center;
+    font-size: 1.17em;   
+}
+
+ul{
+    margin: 0;
+    list-style-type: circle;
+}
+
+ul li{
+    margin: 7px 0;
+}
+
+.top-nav{
+    opacity: 0.57;
+    margin: 17px auto;
+    max-width: 777px;
+    text-align: center;
+    font-size: 0.87em;
+}
+
+.mainbox{
+    max-width: 777px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;;
+}
+.mainbox > div > p{}
+
+.mainbox > div{
+    width: 337px;
+    border: 1px solid rgba(227,117,207,0.47);
+
+    border-radius: 11px;
+    margin: 7px;
+    padding: 7px 17px 17px 17px;
+    opacity: 0.77;
+
+    font-size: 0.87em;
+}
+.mainbox > div > h2{
+    font-size: 1.17em;
+    opacity: 0.57;
+    margin: 7px 0;
+}
+
+
+.updating{
+    color: rgba(157, 0,0, 0.87);
+}
+
+
+
+.cataloguebox{
+    max-width: 777px;
+    margin: 0 auto;
+    padding: 17px;
+}
+.cataloguebox > p{
+    opacity: 0.77;
+    font-size: 0.77em;
+}
+.cataloguebox > div{
+    
+}
+
+.opt-nav{
+    margin-top: 17vh;
 }
