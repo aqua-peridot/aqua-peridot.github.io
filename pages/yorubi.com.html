@@ -3,15 +3,72 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Info - yorubi.com</title>
-  <link rel="stylesheet" href="style.css">
+  <title>Info: yorubi.com</title>
+  <style type="text/css">
+    .versions > ol{
+        margin: 1px;
+    }
+    #version-updates{
+        width: 377px;
+        padding: 7px 17px;
+        margin: 77px auto 27px auto;
+        font-size: 0.77em;
+        color: rgba(107,77,107,0.77);
+        border-top: 1px solid rgba(107,77,107,0.27);
+        border-bottom: 1px solid rgba(107,77,107,0.27);
+    }    
+  </style>
+  <link rel="stylesheet" href="../style.css">
 </head>
 <body>
 
 <h1>yorubi.com - info</h1>
-<div class="content-box">Setting up!</div>
 
-<script type="text/javascript"></script>
+<div class="mainbox">
+  <div>
+    <h2>Overview</h2>
+    <p>This page contains info about <a href="https://yorubi.com/">Yorubi</a> website, its development and anything else.</p>
+  </div>
+</div>
+
+<div class="content-box">
+  <div id="version-updates">
+      <div class="versions">
+          Version 0.0.1-10
+          <ol>
+              <li>Channels include OPT</li>
+              <li>Links no longer relative. Include link localizer. </li>
+              <li>Fixed channel structured data format. </li>            
+          </ol> 
+      </div>
+      <div class="versions">
+          Version 0.0.1-8
+          <ol>
+              <li>Channel styles streamlined. </li>
+              <li>Navigation. Channels: restyling url + channel list page.</li>
+              <li>Overpass search implemented. </li>
+              <li>Sitemap created and linked. </li>
+              <li>favicon to root dir + accessible via url </li>            
+          </ol> 
+      </div>
+      
+      <div class="versions">
+          Version 0.0.1-4 
+          <ol>
+              <li>Yorubi patch update. To remove dashboards, go for simplicity. </li>
+              <li>Implemented core content pipeline from chrepo to /ch contents. </li>
+              <li>Populating /ch with Capybara and Shoebill for tests</li>
+              <li>Upgraded about page, created /blog sub-pages.</li>
+              <li>dbless account manager (AM) login/signup system</li>
+              <li>admin functions: allow AM signup, delete AM</li>
+          </ol> 
+      </div>
+
+  </div>  
+
+</div>
+
+
 
 </body>
 </html>
