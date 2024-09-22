@@ -1,0 +1,189 @@
+{
+  "capy'baro": {
+    "semantic_list": [
+      "A heavy or particularly large capybara."
+    ],
+    "components_list": [
+      [
+        [
+          "capybara",
+          null
+        ],
+        [
+          "baros",
+          "heavy - Greek"
+        ]
+      ]
+    ]
+  },
+  "roey'dente": {
+    "semantic_list": [
+      "A rodent that is particularly good at swimming or moving through water."
+    ],
+    "components_list": [
+      [
+        [
+          "roe",
+          "to row - Dutch"
+        ],
+        [
+          "rodente",
+          "rodent - Portuguese"
+        ]
+      ]
+    ]
+  },
+  "hierby'vore": {
+    "semantic_list": [
+      "An animal that specifically eats grass."
+    ],
+    "components_list": [
+      [
+        [
+          "hierba",
+          "grass - Spanish"
+        ],
+        [
+          "herbivore",
+          null
+        ]
+      ]
+    ]
+  },
+  "nadary'pig": {
+    "semantic_list": [
+      "A swimming rodent or pig-like animal."
+    ],
+    "components_list": [
+      [
+        [
+          "nadar",
+          "swim - Spanish"
+        ],
+        [
+          "water pig",
+          null
+        ]
+      ]
+    ]
+  },
+  "pally'joh": {
+    "semantic_list": [
+      "Good pal, friendly creature."
+    ],
+    "components_list": [
+      [
+        [
+          "pal",
+          null
+        ],
+        [
+          "joh",
+          "good - Korean"
+        ]
+      ]
+    ]
+  },
+  "shoeby'tori": {
+    "semantic_list": [
+      "A shoebill stork."
+    ],
+    "components_list": [
+      [
+        [
+          "shoe",
+          null
+        ],
+        [
+          "tori",
+          "bird - Japanese"
+        ]
+      ]
+    ]
+  },
+  "bogy'terre": {
+    "semantic_list": [
+      "A boggy or swampy land."
+    ],
+    "components_list": [
+      [
+        [
+          "bog",
+          null
+        ],
+        [
+          "terre",
+          "land - French"
+        ]
+      ]
+    ]
+  },
+  "billy'schnabel": {
+    "semantic_list": [
+      "A prominent beak."
+    ],
+    "components_list": [
+      [
+        [
+          "bill",
+          null
+        ],
+        [
+          "schnabel",
+          "beak - German"
+        ]
+      ]
+    ]
+  },
+  "greyy'hane": {
+    "semantic_list": [
+      "Grey feathers."
+    ],
+    "components_list": [
+      [
+        [
+          "grey",
+          null
+        ],
+        [
+          "hane",
+          "wings - Japanese"
+        ]
+      ]
+    ]
+  },
+  "hunty'esperar": {
+    "semantic_list": [
+      "A hunting strategy involving patient waiting"
+    ],
+    "components_list": [
+      [
+        [
+          "hunt",
+          null
+        ],
+        [
+          "esperar",
+          "wait - Spanish"
+        ]
+      ]
+    ]
+  },
+  "birdy'grosser": {
+    "semantic_list": [
+      "A large bird."
+    ],
+    "components_list": [
+      [
+        [
+          "bird",
+          null
+        ],
+        [
+          "grosser",
+          "large - German"
+        ]
+      ]
+    ]
+  }
+}
