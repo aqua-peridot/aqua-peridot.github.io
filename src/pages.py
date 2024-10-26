@@ -1,7 +1,7 @@
 import json, glob, os
 
 OPT_SRC_DIRS = [ # local@erico's machine
-    "C:/Users/ericotjoa/Desktop/mygarage/yorubi/chrepo/ch",
+    "C:\\Users\\ericotjoa\\Desktop\\mygarage\\atatabi-control-panel\\chrepo\\ch",
 ]
 
 def load_py_script_vars(py_dict_dir):

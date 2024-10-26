@@ -84,6 +84,125 @@
       ]
     ]
   },
+  "niangy'rice": {
+    "semantic_list": [
+      "Describing a unique fermented rice preparation method."
+    ],
+    "components_list": [
+      [
+        [
+          "rice",
+          null
+        ],
+        [
+          "niang",
+          "ferment - Chinese"
+        ]
+      ]
+    ]
+  },
+  "laoy'spice": {
+    "semantic_list": [
+      "traditional aged spice blends."
+    ],
+    "components_list": [
+      [
+        [
+          "lao",
+          "old - Chinese"
+        ],
+        [
+          "spice",
+          null
+        ]
+      ]
+    ]
+  },
+  "sedapy'taste": {
+    "semantic_list": [
+      "Describing an exceptionally satisfying flavor"
+    ],
+    "components_list": [
+      [
+        [
+          "sedap - delicious",
+          "Malay"
+        ],
+        [
+          "taste",
+          null
+        ]
+      ]
+    ]
+  },
+  "pedasy'heat": {
+    "semantic_list": [
+      "The distinctive Singaporean-style spiciness"
+    ],
+    "components_list": [
+      [
+        [
+          "pedas",
+          "spicy - Indonesian"
+        ],
+        [
+          "heat",
+          null
+        ]
+      ]
+    ]
+  },
+  "warmy'kuah": {
+    "semantic_list": [
+      "Warm broth served with chicken rice"
+    ],
+    "components_list": [
+      [
+        [
+          "kuah",
+          "sauce/gravy - Malay"
+        ],
+        [
+          "warm",
+          null
+        ]
+      ]
+    ]
+  },
+  "gemy'fat": {
+    "semantic_list": [
+      "Rendered chicken fat used to flavor rice"
+    ],
+    "components_list": [
+      [
+        [
+          "ge mi",
+          "fat, rendered - Hokkien"
+        ],
+        [
+          "fat",
+          null
+        ]
+      ]
+    ]
+  },
+  "hainy'chick": {
+    "semantic_list": [
+      "A chicken dish with Hainanese origins"
+    ],
+    "components_list": [
+      [
+        [
+          "hainy",
+          "Hainanese"
+        ],
+        [
+          "chicken",
+          null
+        ]
+      ]
+    ]
+  },
   "shoeby'tori": {
     "semantic_list": [
       "A shoebill stork."
