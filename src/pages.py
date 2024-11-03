@@ -82,7 +82,7 @@ def write_opt_to_catalogue(DIRS):
 
     opts = ""
     opts_nav = []
-    opt_src.sort()
+    opt_src.sort(key=lambda y: y.lower())
 
     for i, opt in enumerate(opt_src):        
         atmp = opt[0].upper() 

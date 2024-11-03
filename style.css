@@ -78,6 +78,13 @@ ul li{
     margin-top: 17vh;
 }
 
+.opt-desc{
+    margin: 17px 7px 0 7px;
+    font-size: 0.77em;
+    opacity: 0.57;
+    font-style: italic;
+    text-align: justify;
+}
 
 .versions{
     margin-bottom: 17px;

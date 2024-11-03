@@ -125,8 +125,8 @@
     "components_list": [
       [
         [
-          "sedap - delicious",
-          "Malay"
+          "sedap",
+          "delicious - Malay"
         ],
         [
           "taste",
@@ -199,6 +199,108 @@
         [
           "chicken",
           null
+        ]
+      ]
+    ]
+  },
+  "Granchy'sauce": {
+    "semantic_list": [
+      "A special sauce for crab dishes"
+    ],
+    "components_list": [
+      [
+        [
+          "Granchio",
+          "crab - Italian"
+        ],
+        [
+          "sauce",
+          null
+        ]
+      ]
+    ]
+  },
+  "Piccay'crab": {
+    "semantic_list": [
+      "A spicy crab dish"
+    ],
+    "components_list": [
+      [
+        [
+          "Piccante",
+          "spicy - Italian"
+        ],
+        [
+          "crab",
+          null
+        ]
+      ]
+    ]
+  },
+  "Crustay'rouge": {
+    "semantic_list": [
+      "A red crab dish"
+    ],
+    "components_list": [
+      [
+        [
+          "Crustacean",
+          null
+        ],
+        [
+          "Rouge",
+          "red - French"
+        ]
+      ]
+    ]
+  },
+  "Epicy'feast": {
+    "semantic_list": [
+      "A spicy feast"
+    ],
+    "components_list": [
+      [
+        [
+          "Epice",
+          "spiced - French"
+        ],
+        [
+          "feast",
+          null
+        ]
+      ]
+    ]
+  },
+  "Savory'mer": {
+    "semantic_list": [
+      "Savory seafood flavors"
+    ],
+    "components_list": [
+      [
+        [
+          "Savory",
+          null
+        ],
+        [
+          "Mer",
+          "sea - French"
+        ]
+      ]
+    ]
+  },
+  "Zesty'frutti": {
+    "semantic_list": [
+      "A zesty, fruity flavor profile"
+    ],
+    "components_list": [
+      [
+        [
+          "Zesty",
+          null
+        ],
+        [
+          "Frutti",
+          "fruits - Italian"
         ]
       ]
     ]
